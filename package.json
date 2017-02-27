@@ -1,0 +1,23 @@
+{
+  "name": "node-less",
+  "version": "1.0.0",
+  "description": "一个基于终端的自动less编译器",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./lib/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JepsonGithub/node--less-.git"
+  },
+  "author": "Jepson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JepsonGithub/node--less-/issues"
+  },
+  "homepage": "https://github.com/JepsonGithub/node--less-#readme",
+  "dependencies": {
+    "less": "^2.7.2"
+  }
+}
